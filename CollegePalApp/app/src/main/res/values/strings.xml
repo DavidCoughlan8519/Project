@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">CollegePalApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="departments">
+        <item>Computer Science</item>
+    </string-array>
+
+    <string-array name="compScienceCourses">
+        <item>CO.CLD4-A</item>
+        <item>CO.CLD4-B</item>
+        <item>CO.CLD5-A-(New)</item>
+        <item>CO.CLD5-B-(Fin)</item>
+        <item>CO.COMP1A-X</item>
+        <item>CO.COMP1A-Y</item>
+        <item>CO.COMP1B-X</item>
+        <item>CO.COMP1B-Y</item>
+        <item>CO.COMP1C-X</item>
+        <item>CO.COMP1C-Y</item>
+        <item>CO.COMP1D-X</item>
+        <item>CO.COMP1D-Y</item>
+        <item>CO.COMP1E-X</item>
+        <item>CO.COMP1E-Y</item>
+        <item>CO.CS2</item>
+        <item>CO.CS3</item>
+        <item>CO.CS4</item>
+        <item>CO.EVCISCO1</item>
+        <item>CO.EVCISCO2</item>
+        <item>CO.EVCISCOW1</item>
+        <item>CO.EVCOMPTIA</item>
+        <item>CO.EVMSC-INFODSGN-1</item>
+        <item>CO.EVMSC-INFODSGN-2</item>
+        <item>CO.EVMSC-INFOSEC-1-(ONLINE ONLY)</item>
+        <item>CO.EVMSC-INFOSEC-2-(ONLINE ONLY)</item>
+        <item>CO.EVMSC-SWDEV</item>
+        <item>CO.EVPCHW</item>
+        <item>CO.EVSD1-A</item>
+        <item>CO.EVSD1-B</item>
+        <item>CO.EVSD2</item>
+        <item>CO.EVSD3</item>
+        <item>CO.HDCLD1-(Fin)</item>
+        <item>CO.HDCLD1-(New)</item>
+        <item>CO.HDMOB</item>
+        <item>CO.IT2</item>
+        <item>CO.IT3-A</item>
+        <item>CO.IT3-B</item>
+        <item>CO.ITM2-A</item>
+        <item>CO.ITM2-B</item>
+        <item>CO.ITM3-A</item>
+        <item>CO.ITM3-B</item>
+        <item>CO.ITM4-A</item>
+        <item>CO.ITM4-B</item>
+        <item>CO.MSC-INFOSEC-1</item>
+        <item>CO.MSCRSCH</item>
+        <item>CO.MSCRSCHProj</item>
+        <item>CO.SD2- A</item>
+        <item>CO.SD2- B</item>
+        <item>CO.SD3-A</item>
+        <item>CO.SD3-B</item>
+        <item>CO.SDH2-A</item>
+        <item>CO.SDH2-B</item>
+        <item>CO.SDH3-A</item>
+        <item>CO.SDH3-B</item>
+        <item>CO.SDH4-A</item>
+        <item>CO.SDH4-B</item>
+        <item>CO.WEB2</item>
+        <item>CO.WEB3</item>
+        <item>CO.WEB4</item>
+    </string-array>
+</resources>

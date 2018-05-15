@@ -1,0 +1,4 @@
+#Wed Apr 25 20:34:51 BST 2018
+base.0=C\:\\Users\\David\\Desktop\\CollegePal Room Adder\\CollegePalRoomAdder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
